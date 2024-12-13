@@ -1,2 +1,19 @@
-# RLCCVNSV
-Radar Low-Cost pour le Controle de Vitesse et de Niveau Sonore des Voitures
+
+# Run
+open file name **ihmV2.py** and run 
+
+# PyTorch Object Detection and Tracking
+Object detection in images, and tracking across video frames
+
+Full story at:
+https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98
+
+References:
+1. YOLOv3: https://pjreddie.com/darknet/yolo/
+2. Erik Lindernoren's YOLO implementation: https://github.com/eriklindernoren/PyTorch-YOLOv3
+3. YOLO paper: https://pjreddie.com/media/files/papers/YOLOv3.pdf
+4. SORT paper: https://arxiv.org/pdf/1602.00763.pdf
+5. Alex Bewley's SORT implementation: https://github.com/abewley/sort
+6. Installing Python 3.6 and Torch 1.0: https://medium.com/@chrisfotache/getting-started-with-fastai-v1-the-easy-way-using-python-3-6-apt-and-pip-772386952d03
+7.https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/ autre deepsort
+8. Faster R-CNN: https://pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html
